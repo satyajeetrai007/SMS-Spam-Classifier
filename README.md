@@ -4,12 +4,13 @@ This project is an SMS Spam Classifier that uses machine learning techniques to 
 
 ## Features
 #### Spam Detection: Automatically identifies and filters out spam messages.
-#### High Accuracy: Trained on a large dataset to ensure reliable performance.
+#### High Accuracy: Achieved 97.09 Percent accuracy and 100 percent Precision Using Multinomial Naive Bayes Classifier (MNB).
 #### User-Friendly Interface: Simple interface for inputting messages and receiving classification results.
 
 ## Technologies Used
 #### Python: The main programming language used.
 #### Pandas: For data manipulation and analysis.
+#### Matplotlib and SNS - Visualisation tools Used.
 #### Scikit-Learn: For implementing machine learning algorithms.
 #### NLTK: For natural language processing tasks.
 
