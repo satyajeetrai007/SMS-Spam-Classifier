@@ -16,6 +16,7 @@ This project is an SMS Spam Classifier that uses machine learning techniques to 
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions that improve the system or add new features.
-
+## Link 
+Link for the application https://sms-spam-or-ham-classifier.streamlit.app/
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
