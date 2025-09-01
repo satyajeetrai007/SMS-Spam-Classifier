@@ -1,11 +1,8 @@
 # Click on the Thumbnail to watch Demo
 
 
-[![Watch the video](https://img.youtube.com/vi/1Z_M6L-xZ1U/0.jpg)](https://www.youtube.com/watch?v=1Z_M6L-xZ1U)
 
-
-
-
+https://github.com/user-attachments/assets/1fe8a9dc-ae50-4606-a016-9c6ce1c675b8
 
 
 # SMS-Spam-Classifier
