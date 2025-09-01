@@ -1,3 +1,13 @@
+# Click on the Thumbnail to watch Demo
+
+
+[![Watch the video](https://img.youtube.com/vi/1Z_M6L-xZ1U/0.jpg)](https://www.youtube.com/watch?v=1Z_M6L-xZ1U)
+
+
+
+
+
+
 # SMS-Spam-Classifier
 ## Overview
 This project is an SMS Spam Classifier that uses machine learning techniques to distinguish between spam and ham (non-spam) messages. The classifier analyzes the content of SMS messages and predicts whether they are spam or legitimate.
